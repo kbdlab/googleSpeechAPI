@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tribal-affinity-230608",
+  "private_key_id": "ff46294a72002a2f44c698755cadd3c6e68b583e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD3o36eJgBfu3BW\nfmbEZvsSQhsQwOpuJX42+oJfF1Kofjw3PY3HYAWNwIo3VjK/xYz5O8qps+/Wv9QL\nBWOPJsy9D4sL/1lLhdmZ6KgZ56bysj7uYILMqzy9lp0KsUtdH3v0JrRZLGtA6aHI\n0ONHXz2JlnVeg16XdGe9iKq6CLY7oLcynRtBPApA641HlZvX4BG6tgFwSveX9XiO\nsTZPcVGBqu9UlJDefbbhFOL76ROIXiWQvC9V6plGqzt+6DrRDLWn5hL8b1as7KYC\nddw/ASNU0AL27plPqQOVQWSRH/BJZ9BEKZ1Mr33N5rjedLsS4hrrxRmvuCkzjj6b\n2buyqL9jAgMBAAECggEAFh1DFuNk4CewcgDqs3pQzIIbwaTAqqJtgYJgdxZxmrtf\nLD2ydg4EoPKDRUrM0GRXYQBuajY34lESIgPSrrtzyCRlseYVNtHWq1BkBqAxv/Wb\n+hSjSZy3GWUkVAqeJMxFePml3FrDnzHd8T16NmryZ2GIzK5lmZfbFclpGaDiiTN1\nf4KMFPU6MLEE2l2Nix5mWrLURYdrhFUheagBbYCy3YSSz+UdoOfRvLvxi/0x6vdY\n9CkV4oEz7HOQPtVeVJmbalxfSgFXVtW/ZpsZY3UmOimsjXG+15E0L3yaYnnS4Mni\n89ZM/tmA7ibTVNMw8FN8gVkPnYyiVpiQR+Ajqsd5+QKBgQD++YMfS4zS81HGq5i7\nArEGgxabxxxl7QFxF3HObkyXK5T48l2aLRl1M6IFT9YDu+lqHRpGjYx08BwZvETB\nV09rKuWHuliNQi9Xeq8kXoeUZpMS1qAjp5sip/YqNHgj94O6cz3fXuPj2ImcH6jy\n29o/Uhjgc2oWE0kM/wnM+RIMWwKBgQD4om4jyVw7IlSpWdqh29ArKp+NMB4ZICzh\nWp6QE/dUV6Qs0mqDNpD/lL+ZVAh68AdLFALAiT6FBeZB3xZ3DJsbHftgOK3E4ceN\nz0ArDApK4FUYlRWl6X1/Q7y+ey2iFQMs27xmBdTiY23jWWauzNQTHboXZXSM+y5u\nddd0S3CnmQKBgQCTXrWpxen8F0ShtpaNKG4XHHdZzEiepNDbg7h0nw3HphnxlWwC\na6S2OASiW1WQTPEJMw73zmJrSEiFm2qF8SfnAiEuRMdfxexE/JT0SWrFnE/PaJug\nYARrkHbYSAFUkH/jqS4Ox/Khw4st4KKu0+GeDZ5xRGQBpF3plBMfFKqY1wKBgFnt\nphibhBh/Wk/GiCVy8+ApEnxmovxDfvgjZqaGEjcXW/I6SPwciGVoz8QNeOO+XWTy\nX+xzt4E1mQrKPb3heVhdh8ZNucw0PZE1HOh0+mQKr7ysb6AKy7F0NphOxTqSjwty\njrn38f/QJrbMZy9iNnKTlfNQZs93KlwZk0wk3SJBAoGAYIwNRRgXRLOTiCACbNNi\nnRLQJUMfVnDm0EzX7YG+8e970Tg+x/LV5UOXt2s9fZO3vE7hHC7MNfA/h0kLTIJB\nVJJA+FaNhWvkvPe2hIubNKbmepfvR41Uj6M6ZKNv3ise4ytXqKSHVp9laQNarhuL\nwVFW3UMWDoD/wMpOL4fSG4M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ws-29-80@tribal-affinity-230608.iam.gserviceaccount.com",
+  "client_id": "113432551125594472174",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ws-29-80%40tribal-affinity-230608.iam.gserviceaccount.com"
+}
